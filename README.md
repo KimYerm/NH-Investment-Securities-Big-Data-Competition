@@ -19,14 +19,14 @@ NH투자증권 빅데이터 경진대회에 참가하여 Python을 활용하�
 <img width="857" alt="image" src="https://github.com/KimYerm/NH-Investment-Securities-Big-Data-Competition/assets/116711917/07d8d58d-b2bc-4d3c-b391-27085612488d">
 
 ## 역할
-- 조장을 맡아 주도적으로 회의를 계획하고 총괄
+- 조장을 맡아 주도적으로 회의를 계획하고 총괄하였습니다.
 - EDA를 통해 문제 발견, 고객 분류별 전략 세우기, 데이터프레임 분할과 병합, 군집화 결과 시각화, 추천 알고리즘 기획, 기획안 PPT 작성 등
 
 
 
 ## 배운 점 / 성과
-- 투자 기간에 따라 고객 수 차이가 확연히 드러난다는 문제를 발견하고 이에 대한 해결 방안 제시 
-- 데이터 분석 결과를 통해 인사이트를 발견하고 이를 비즈니스 전략으로 연결하는 역량을 키움 
+- 투자 기간에 따라 고객 수 차이가 확연히 드러난다는 문제를 발견하고 이에 대한 해결 방안을 제시할 수 있었습니다.
+- 데이터 분석 결과를 통해 인사이트를 발견하고 이를 비즈니스 전략으로 연결하는 역량을 키울 수 있었습니다.
 - 성과: 입선상(4위) 수상
 <img width="220" alt="image" src="https://github.com/KimYerm/NH-Investment-Securities-Big-Data-Competition/assets/116711917/fde87c24-3663-45bb-a5ff-6e2728374607">
 
